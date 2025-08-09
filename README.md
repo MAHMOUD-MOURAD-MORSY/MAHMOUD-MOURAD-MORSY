@@ -27,7 +27,7 @@
 
 </div>
 
-###https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg
+###
 
 <h2 align="left">About me</h2>
 
