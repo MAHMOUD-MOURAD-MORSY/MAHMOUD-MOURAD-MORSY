@@ -30,7 +30,7 @@
   <a href="mailto:mahmoudmouradm99@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="[https://www.linkedin.com/in/mahmoud-mourad-ibrahime-bbb309367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/mahmoud-mourad-bbb309367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) " target="_blank">
+  <a href="https://www.linkedin.com/in/mahmoud-mourad-bbb309367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://wa.me/qr/JUO56PYJIQAGN1 " target="_blank">
